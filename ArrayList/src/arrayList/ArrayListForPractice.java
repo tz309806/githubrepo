@@ -9,6 +9,7 @@ public class ArrayListForPractice {
 	public static void main(String[] args) {
 
 		// Adding to Git locally
+		// second try
 
 		// ArrayList<Integer> list = new ArrayList<Integer>(10);
 		//
